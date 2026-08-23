@@ -25,7 +25,7 @@ One gesture each. No schedules. No idle games.
 
 ## The Instrument
 
-A low-profile bar sits just above the taskbar — there when you want it, gone when you don’t. Double-click the tray icon to show or hide it. Hover **KiT** for *Keep it Ticking*. Right-click the tray for modes, Ghost, Hold Night, **Auto after idle**, and the Night face.
+A low-profile bar sits just above the taskbar — there when you want it, gone when you don’t. Double-click the tray icon to show or hide it. Right-click the tray for settings, Ghost, Hold Night, Auto after idle, and the Night faces.
 
 Toggles/Keybinds
 
