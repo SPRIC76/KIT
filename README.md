@@ -17,7 +17,7 @@ One program. Entirely local. No accounts. No telemetry. No theater (except the s
 |---|---|
 | **Light** | The PC and display stay awake. Quiet and ready. |
 | **Night** | Wakeable dark — Screen darkens, the machine stays working. A touch of activity brings you back. |
-| **Off** | Ordinary Windows again. |
+| **Off** | Regular old sleepy Windows again. |
 
 One gesture each. No schedules. No idle games.
 
@@ -29,15 +29,15 @@ A low-profile bar sits just above the taskbar — there when you want it, gone w
 
 Toggles/Keybinds
 
-**Ctrl+Shift+D** Light ·  
-**Ctrl+Shift+K** Night · 
+**Ctrl+Shift + D** Light · Default mode
+**Ctrl+Shift + K** Night · Auto-wakes on mouse/keyboard activity
 
 hold either for Off · triple-tap to flip to the opposite mode (Light -> Dark, Dark -> Light) 
-**Esc** or **Space** leaves Night Hold.
+
 
 Optional **Ghost** — transparent, click-through. 
 
-Optional **Hold Night** — stay dark until you say otherwise. 
+Optional **Hold Night** — stay dark until you say otherwise. **Esc** or **Space** leaves Night Hold.
 
 Optional **Auto after idle** — from Off or Light, enter Light or Night after 1–30 quiet minutes. 
 
