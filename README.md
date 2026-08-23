@@ -19,13 +19,14 @@ One program. Entirely local. No accounts. No telemetry. No theater (except the s
 | **Night** | Wakeable dark — Screen darkens, the machine stays working. A touch of activity brings you back. |
 | **Off** | Regular old sleepy Windows again. |
 
-One gesture each. No schedules. No idle games.
+One gesture each. No schedules. No idle hassle.
 
 ---
 
 ## The Instrument
 
 A low-profile bar sits just above the taskbar — there when you want it, gone when you don’t. Double-click the tray icon to show or hide it. Right-click the tray for settings, Ghost, Hold Night, Auto after idle, and the Night faces.
+
 
 Toggles/Keybinds
 
@@ -35,7 +36,7 @@ Toggles/Keybinds
 hold either for Off · triple-tap to flip to the opposite mode (Light -> Dark, Dark -> Light) 
 
 
-Optional **Ghost** — transparent, click-through. 
+Optional **Ghost** — transparent, click-through Control Bar/UI Element. 
 
 Optional **Hold Night** — stay dark until you say otherwise. **Esc** or **Space** leaves Night Hold.
 
@@ -43,9 +44,10 @@ Optional **Auto after idle** — from Off or Light, enter Light or Night after 1
 
 Optional run at sign-in. 
 
+
 Remembers how you left it.
 
-Night faces: **Globules/Kit Commander**, DVD, Snake, Orbit — or quiet Off. Burn-safe motion. Built to feel alive, not busy.
+Night screensavers/faces: **Globules/Kit Commander**, DVD, Snake, Orbit — or quiet Off. Burn-safe motion. Built to feel alive, not busy.
 
 
 ---
