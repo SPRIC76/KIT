@@ -16,31 +16,35 @@ One program. Entirely local. No accounts. No telemetry. No theater (except the s
 | | |
 |---|---|
 | **Light** | The PC and display stay awake. Quiet and ready. |
-| **Night** | Wakeable dark — deep screen, clear desk, the machine still working. A touch of activity brings you back. |
+| **Night** | Wakeable dark — Screen darkens, the machine stays working. A touch of activity brings you back. |
 | **Off** | Ordinary Windows again. |
 
 One gesture each. No schedules. No idle games.
 
 ---
 
-## The instrument
+## The Instrument
 
 A low-profile bar sits just above the taskbar — there when you want it, gone when you don’t. Double-click the tray icon to show or hide it. Hover **KiT** for *Keep it Ticking*. Right-click the tray for modes, Ghost, Hold Night, **Auto after idle**, and the Night face.
 
-**Ctrl+Shift+D** Light · **Ctrl+Shift+K** Night · hold either for Off · triple-tap to flip. **Esc** or **Space** leaves Night.
+Toggles/Keybinds
+**Ctrl+Shift+D** Light ·  
+**Ctrl+Shift+K** Night · 
+hold either for Off · triple-tap to flip to the opposite mode (Light -> Dark, Dark -> Light) 
+**Esc** or **Space** leaves Night Hold.
 
 Optional **Ghost** — transparent, click-through. 
+
 Optional **Hold Night** — stay dark until you say otherwise. 
+
 Optional **Auto after idle** — from Off or Light, enter Light or Night after 1–30 quiet minutes. 
+
 Optional run at sign-in. 
 
 Remembers how you left it.
 
-Night faces: **Globules**, DVD, Snake, Orbit — or quiet Off. Burn-safe motion. Built to feel alive, not busy.
+Night faces: **Globules/Kit Commander**, DVD, Snake, Orbit — or quiet Off. Burn-safe motion. Built to feel alive, not busy.
 
-### Globules
-
-Night’s living screensaver.
 
 ---
 
