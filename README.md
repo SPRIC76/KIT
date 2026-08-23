@@ -31,6 +31,7 @@ Toggles/Keybinds
 
 **Ctrl+Shift+D** Light ·  
 **Ctrl+Shift+K** Night · 
+
 hold either for Off · triple-tap to flip to the opposite mode (Light -> Dark, Dark -> Light) 
 **Esc** or **Space** leaves Night Hold.
 
