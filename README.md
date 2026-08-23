@@ -19,7 +19,7 @@ One program. Entirely local. No accounts. No telemetry. No theater (except the s
 | **Night** | Wakeable dark — Screen darkens, the machine stays working. A touch of activity brings you back. |
 | **Off** | Regular old sleepy Windows again. |
 
-One gesture each. No schedules. No idle hassle.
+One gesture each. No schedules. No idle.  No hassle.
 
 ---
 
