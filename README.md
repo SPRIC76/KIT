@@ -1,6 +1,6 @@
 # KiT
 
-**Keep it Ticking** · *Hassle-free awake modes that keep your Apps & AI ticking.*
+**Keep it Ticking** · *Hassle-free awake modes that keep your PC, Apps & AI ticking.*
 
  KiT is a quiet Windows companion that keeps your session awake (Light) or darkens the desktop without sleeping the PC (Night), with wakeable screensaver faces; Off returns ordinary Windows. 
  
