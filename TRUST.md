@@ -29,4 +29,4 @@ Prefer the [latest release](https://github.com/SPRIC76/KIT/releases/latest). Bot
 
 Windows may look once at a new publisher. That is ordinary, not a verdict. If a locked-down PC refuses to run it, that is publisher policy, not a corrupt file — see [Download](docs/DOWNLOAD.md).
 
-[MIT](LICENSE) · MK Shepherd
+[MIT](LICENSE) · MK1 Enterprise

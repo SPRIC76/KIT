@@ -23,4 +23,4 @@ The tray updater refuses any download that is not served from GitHub Releases, e
 In scope: the shipped `KIT.exe` / `KIT-Setup.exe`, the updater, and the manifests published here (Scoop bucket, winget).  
 Out of scope: third-party components as installed on your machine (Windows, Python, Tk, PyInstaller), and issues that require an already-compromised user account.
 
-[MIT](LICENSE) · MK Shepherd
+[MIT](LICENSE) · MK1 Enterprise

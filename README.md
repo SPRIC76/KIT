@@ -78,4 +78,4 @@ More paths: [Download](docs/DOWNLOAD.md). How it earns trust: [Trust](TRUST.md).
 
 Windows 10 or 11. Nothing else to install.
 
-[MIT](LICENSE) · MK Shepherd
+[MIT](LICENSE) · MK1 Enterprise
