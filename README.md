@@ -57,6 +57,8 @@ Night screensavers/faces: **Globules/Kit Commander**, DVD, Snake, Orbit — or q
 
 Both launches live on the [latest release](https://github.com/SPRIC76/KIT/releases/latest).
 
+See it first: [spric76.github.io/KIT](https://spric76.github.io/KIT/) — every mode and face, then the download.
+
 | | | |
 |---|---|---|
 | **Installer** | Start menu, repair, uninstall | [`KIT-Setup.exe`](https://github.com/SPRIC76/KIT/releases/latest) |
