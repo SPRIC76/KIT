@@ -1,21 +1,30 @@
-MIT License
+KiT — End-User License Agreement
 
-Copyright (c) 2026 MK1 Enterprise
+Copyright (c) 2026 MK1 Enterprise. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software ("KiT") is licensed, not sold. MK1 Enterprise grants you a
+free, personal, non-exclusive, non-transferable license to download,
+install, and run KiT for as long as you like, on any machine you own or
+control.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may not:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  - modify, decompile, reverse engineer, or create derivative works of KiT;
+  - redistribute, repackage, mirror, or rehost the KiT installer or binary
+    outside of the official channels (github.com/SPRIC76/KIT and its
+    published Scoop, winget, and Chocolatey manifests);
+  - sublicense, sell, rent, or lease KiT to any third party;
+  - remove or alter any copyright, trademark, or attribution notice.
+
+All rights not expressly granted above are reserved by MK1 Enterprise.
+
+KiT is provided "AS IS", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for
+a particular purpose, and noninfringement. In no event shall MK1 Enterprise
+be liable for any claim, damages, or other liability, whether in an action
+of contract, tort, or otherwise, arising from, out of, or in connection with
+KiT or the use or other dealings in KiT.
+
+This license terminates automatically if you violate any of its terms.
+Upon termination you must stop using KiT and delete all copies in your
+possession.
