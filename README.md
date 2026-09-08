@@ -4,7 +4,7 @@
 
  KiT is a quiet Windows companion that keeps your session awake (Light) or darkens the desktop without sleeping the PC (Night), with wakeable screensaver faces; Off returns ordinary Windows. 
  
- Single instance, MIT, public source. No telemetry, no account, no cloud, no keystroke recording, no clipboard access, no fake input. SHA-256-verified releases on GitHub. Two launches: installer (current-user scope) and portable (no admin needed). Winget path is in motion.
+ Single instance, no telemetry, no account, no cloud, no keystroke recording, no clipboard access, no fake input. SHA-256-verified releases on GitHub. Two launches: installer (current-user scope) and portable (no admin needed). Winget path is in motion.
  
 
 One program. Entirely local. No accounts. No telemetry. No theater (except the screensavers).
@@ -78,4 +78,4 @@ More paths: [Download](docs/DOWNLOAD.md). How it earns trust: [Trust](TRUST.md).
 
 Windows 10 or 11. Nothing else to install.
 
-[MIT](LICENSE) · MK1 Enterprise
+· MK1 Enterprise
