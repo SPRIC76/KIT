@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.50",
+    "version":  "1.0.51",
     "description":  "KiT — Keep it Ticking. No PC naps, on-demand dark mode that keeps your apps ticking",
     "homepage":  "https://github.com/SPRIC76/KIT",
     "license":  "Freeware",
-    "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.0.50/KIT-Setup.exe",
-    "hash":  "18aee548243d2da6e00e473884c4f1e65a34d9e3dbf787cc0b18e60c8387349e",
+    "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.0.51/KIT-Setup.exe",
+    "hash":  "7dbef1e73fbadaab9e7e8382065794234611f7b3eac54412bbde795ffa07092f",
     "innosetup":  true,
     "bin":  [
         [
@@ -22,6 +22,6 @@
         "github":  "https://github.com/SPRIC76/KIT"
     },
     "autoupdate":  {
-        "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.0.50/KIT-Setup.exe"
+        "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.0.51/KIT-Setup.exe"
     }
 }
