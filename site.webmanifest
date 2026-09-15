@@ -1,0 +1,14 @@
+{
+  "name": "KiT — Keep it Ticking",
+  "short_name": "KiT",
+  "description": "Hassle-free awake modes that keep your PC, Apps & AI ticking. Free for Windows 10 and 11.",
+  "start_url": "/KIT/",
+  "scope": "/KIT/",
+  "display": "browser",
+  "background_color": "#0E0E10",
+  "theme_color": "#0E0E10",
+  "icons": [
+    { "src": "/KIT/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/KIT/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
