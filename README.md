@@ -48,7 +48,7 @@ Optional run at sign-in.
 
 Remembers how you left it.
 
-Night screensavers/faces: **Cosmos** (cosmic anomalous marbles), DVD, Snake, Orbit — or quiet Off. Burn-safe motion. Built to feel alive, not busy.
+Night screensavers/faces: **Cosmos** (cosmic anomalous marbles), DVD, Snake, Orbit — or quiet Off, or **Monitor off**, which turns your displays off to save power while everything else keeps running. Burn-safe motion. Built to feel alive, not busy.
 
 
 ---
