@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.0",
+    "version":  "1.1.1",
     "description":  "KiT — Keep it Ticking. Hassle-free screen blackout and awake modes that keep your PC, Apps & AI ticking.",
     "homepage":  "https://github.com/SPRIC76/KIT",
     "license":  "Freeware",
-    "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.1.0/KIT-Setup.exe",
-    "hash":  "3ef6d61a2d2536f84498a63f1f29ca7dada3b145c97672fc217d896c3ef0919b",
+    "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.1.1/KIT-Setup.exe",
+    "hash":  "49a03e3dcb4703232dfe00518266b02881761286d7d4ec7ec7f05e4c0c352f0e",
     "innosetup":  true,
     "bin":  [
         [
@@ -22,6 +22,6 @@
         "github":  "https://github.com/SPRIC76/KIT"
     },
     "autoupdate":  {
-        "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.1.0/KIT-Setup.exe"
+        "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.1.1/KIT-Setup.exe"
     }
 }
