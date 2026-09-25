@@ -4,7 +4,7 @@
 
  KiT is a quiet Windows companion that keeps your session awake (Light) or darkens the desktop without sleeping the PC (Night), with wakeable screensaver faces; Off returns ordinary Windows. 
  
- Single instance, no telemetry, no account, no cloud, no keystroke recording, no clipboard access, no fake input. SHA-256-verified releases on GitHub. Two launches: installer (current-user scope) and portable (no admin needed). Winget path is in motion.
+ Single instance, no telemetry, no account, no cloud, no keystroke recording, no clipboard access, no fake input. SHA-256-verified releases on GitHub. Two launches: installer (current-user scope) and portable (no admin needed). Also on winget: `winget install --id SPRIC76.KIT -e`.
  
 
 One program. Entirely local. No accounts. No telemetry. No theater (except the screensavers).
@@ -48,7 +48,7 @@ Optional run at sign-in.
 
 Remembers how you left it.
 
-Night screensavers/faces: **Globules/Kit Commander**, DVD, Snake, Orbit — or quiet Off. Burn-safe motion. Built to feel alive, not busy.
+Night screensavers/faces: **Cosmos** (cosmic anomalous marbles), DVD, Snake, Orbit — or quiet Off. Burn-safe motion. Built to feel alive, not busy.
 
 
 ---
