@@ -9,7 +9,7 @@ Quiet. Efficient. Under your control. No account. No cloud dashboard. No “enga
 ## What it does
 
 - Holds the session awake in **Light** and **Night**
-- In **Night**, clears the desk and darkens the display; a touch of activity — or Escape — can return you, unless you choose **Hold Night**
+- In **Night**, clears the desk and darkens the display; a touch of activity returns you, and **Escape** or **Space** always does, even with **Hold Night** on
 - Offers global hotkeys for Light, Night, Off, and flip — chords only, never a record of what you type
 - Draws its Night faces and control bar locally
 - Checks for updates only when you choose **Check for updates…**
@@ -25,8 +25,8 @@ Quiet. Efficient. Under your control. No account. No cloud dashboard. No “enga
 
 ## Official source
 
-Prefer the [latest release](https://github.com/SPRIC76/KIT/releases/latest). Both launches live there: [`KIT-Setup.exe`](https://github.com/SPRIC76/KIT/releases/latest) and [`KIT.exe`](https://github.com/SPRIC76/KIT/releases/latest). Each file has a matching SHA-256 digest on the release page. The program carries ordinary product identity — name, version, publisher.
+Prefer the [latest release](https://github.com/SPRIC76/KIT/releases/latest). Both launches live there: [`KIT-Setup.exe`](https://github.com/SPRIC76/KIT/releases/latest/download/KIT-Setup.exe) and [`KIT.exe`](https://github.com/SPRIC76/KIT/releases/latest/download/KIT.exe). Each file has a matching SHA-256 digest on the release page. The program carries ordinary product identity — name, version, publisher.
 
-Windows may look once at a new publisher. That is ordinary, not a verdict. If a locked-down PC refuses to run it, that is publisher policy, not a corrupt file — see [Download](docs/DOWNLOAD.md).
+Windows may look once at a new publisher. That is ordinary, not a verdict. If a locked-down PC refuses to run it, that is publisher policy, not a corrupt file — see [Download](docs/DOWNLOAD.md). To check a file against its digest, see [Verifying a download](SECURITY.md#verifying-a-download).
 
-[Freeware](LICENSE) · MK1 Enterprise
+KiT · [Freeware](LICENSE) · [MK1 Made](https://mk1made.us) — *Intelligent Design, with you in mind.*

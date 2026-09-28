@@ -2,18 +2,21 @@
 
 **Keep it Ticking** · *Hassle-free screen blackout and awake modes that keep your PC, Apps & AI ticking.*
 
- KiT is a quiet Windows companion that keeps your session awake (Light) or darkens the desktop without sleeping the PC (Night), with wakeable screensaver faces; Off returns ordinary Windows. 
- 
+<img src="https://spric76.github.io/KIT/img/bar-light.png" width="366" alt="The KiT bar in Light, with Night and Off beside it">
+
+ KiT is a quiet Windows companion that keeps your session awake (Light) or darkens the desktop without sleeping the PC (Night), with wakeable screensaver faces; Off returns ordinary Windows.
+
  Single instance, no telemetry, no account, no cloud, no keystroke recording, no clipboard access, no fake input. SHA-256-verified releases on GitHub. Two launches: installer (current-user scope) and portable (no admin needed). Also on winget: `winget install --id SPRIC76.KIT -e`.
- 
 
 One program. Entirely local. No accounts. No telemetry. No theater (except the screensavers).
+
+**[Download KiT](https://github.com/SPRIC76/KIT/releases/latest/download/KIT-Setup.exe)** · [See it first](https://spric76.github.io/KIT/) · [Trust](TRUST.md)
 
 ---
 
 ## Three modes
 
-| | |
+| Mode | What it does |
 |---|---|
 | **Light** | The PC and display stay awake. Quiet and ready. |
 | **Night** | Wakeable dark — Screen darkens, the machine stays working. A touch of activity brings you back. |
@@ -27,29 +30,31 @@ One gesture each. No schedules. No idle.  No hassle.
 
 A low-profile bar sits just above the taskbar — there when you want it, gone when you don’t. Double-click the tray icon to show or hide it. Right-click the tray for settings, Ghost, Hold Night, Auto after idle, and the Night faces.
 
+### Toggles/Keybinds
 
-Toggles/Keybinds
+| Keys | Mode |
+|---|---|
+| **Ctrl+Shift + D** | Light · Default mode |
+| **Ctrl+Shift + K** | Night · Auto-wakes on mouse/keyboard activity |
 
-**Ctrl+Shift + D** Light · Default mode
+Hold either for Off · triple-tap to flip to the opposite mode (Light → Night, Night → Light).
 
-**Ctrl+Shift + K** Night · Auto-wakes on mouse/keyboard activity
+### Options
 
-hold either for Off · triple-tap to flip to the opposite mode (Light -> Dark, Dark -> Light) 
-
-
-Optional **Ghost** — transparent, click-through Control Bar/UI Element. 
-
-Optional **Hold Night** — stay dark until you say otherwise. **Esc** or **Space** leaves Night Hold.
-
-Optional **Auto after idle** — from Off or Light, enter Light or Night after 1–30 quiet minutes. 
-
-Optional run at sign-in. 
-
+- Optional **Ghost** — transparent, click-through Control Bar/UI Element.
+- Optional **Hold Night** — stay dark until you say otherwise. **Esc** or **Space** leaves Hold Night.
+- Optional **Auto after idle** — from Off or Light, enter Light or Night after 1, 5, 10, 15 or 30 quiet minutes.
+- Optional **Night brightness** — how deep Night goes, from a soft dim to fully dark.
+- Optional **Monitor brightness** — a convenience for displays with DDC/analog brightness controls; sets the panel's own brightness from the tray instead of reaching for its buttons, and does nothing on displays without DDC (most laptop panels).
+- Optional run at sign-in.
 
 Remembers how you left it.
 
+### Night faces
+
 Night screensavers/faces: **Cosmos** (cosmic anomalous marbles), DVD, Snake, Orbit — or quiet Off, or **Monitor off**, which turns your displays off to save power while everything else keeps running. Burn-safe motion. Built to feel alive, not busy.
 
+<img src="https://spric76.github.io/KIT/img/face-cosmos-a.png" width="720" alt="Cosmos, one of Night's faces, as KiT draws it">
 
 ---
 
@@ -59,13 +64,17 @@ Both launches live on the [latest release](https://github.com/SPRIC76/KIT/releas
 
 See it first: [spric76.github.io/KIT](https://spric76.github.io/KIT/) — every mode and face, then the download.
 
-| | | |
+| Launch | For | Download |
 |---|---|---|
-| **Installer** | Start menu, repair, uninstall | [`KIT-Setup.exe`](https://github.com/SPRIC76/KIT/releases/latest) |
-| **Portable** | No install — run from any folder | [`KIT.exe`](https://github.com/SPRIC76/KIT/releases/latest) |
+| **Installer** | Start menu, repair, uninstall | [`KIT-Setup.exe`](https://github.com/SPRIC76/KIT/releases/latest/download/KIT-Setup.exe) |
+| **Portable** | No install — run from any folder | [`KIT.exe`](https://github.com/SPRIC76/KIT/releases/latest/download/KIT.exe) |
 
-Installer: download [`KIT-Setup.exe`](https://github.com/SPRIC76/KIT/releases/latest) → Next → Finish → open **KIT** from Start.  
-Portable: download [`KIT.exe`](https://github.com/SPRIC76/KIT/releases/latest) → double-click.
+Installer: download [`KIT-Setup.exe`](https://github.com/SPRIC76/KIT/releases/latest/download/KIT-Setup.exe) → Next → Finish → open **KiT** from Start.  
+Portable: download [`KIT.exe`](https://github.com/SPRIC76/KIT/releases/latest/download/KIT.exe) → double-click.
+
+```bat
+winget install --id SPRIC76.KIT -e
+```
 
 ```bat
 scoop bucket add kid https://github.com/SPRIC76/KIT
@@ -78,4 +87,4 @@ More paths: [Download](docs/DOWNLOAD.md). How it earns trust: [Trust](TRUST.md).
 
 Windows 10 or 11. Nothing else to install.
 
-[Freeware](LICENSE) · MK1 Enterprise
+KiT · [Freeware](LICENSE) · [MK1 Made](https://mk1made.us) — *Intelligent Design, with you in mind.*

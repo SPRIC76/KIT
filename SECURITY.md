@@ -4,17 +4,19 @@ KiT is a small local Windows program. It holds no accounts, keeps no server, and
 
 ## Reporting a problem
 
-If you believe you have found a security issue in KiT, please open a [GitHub issue](https://github.com/SPRIC76/KIT/issues/new) with the version (tray menu shows it), what you saw, and how to reproduce it. If the details should not be public, say so in the issue and a private channel will be arranged before anything sensitive is shared.
+If you believe you have found a security issue in KiT, please report it privately through [Report a vulnerability](https://github.com/SPRIC76/KIT/security/advisories/new) with the version (tray menu shows it), what you saw, and how to reproduce it. Only you and the maintainer see it. Anything safe to discuss in public can go in a [GitHub issue](https://github.com/SPRIC76/KIT/issues/new).
 
 You can expect an acknowledgement within a few days. Fixes ship as a normal release with SHA-256 digests beside the files.
 
 ## Verifying a download
 
-Every release publishes `KIT-Setup.exe` and `KIT.exe` with matching `.sha256` files. Compare before you run:
+Every release publishes `KIT-Setup.exe` and `KIT.exe` with matching `.sha256` files. Compare before you run: download the `.sha256` beside the file, then in PowerShell in that folder:
 
 ```powershell
-Get-FileHash .\KIT-Setup.exe
+(Get-FileHash .\KIT-Setup.exe).Hash -eq (Get-Content .\KIT-Setup.exe.sha256).Trim()
 ```
+
+`True` means the file is the one the release published. For the portable, put `KIT.exe` in both places.
 
 The tray updater refuses any download that is not served from GitHub Releases, enforces a size cap, and verifies the SHA-256 digest before it replaces the running copy.
 
@@ -23,4 +25,4 @@ The tray updater refuses any download that is not served from GitHub Releases, e
 In scope: the shipped `KIT.exe` / `KIT-Setup.exe`, the updater, and the manifests published here (Scoop bucket, winget).  
 Out of scope: third-party components as installed on your machine (Windows, Python, Tk, PyInstaller), and issues that require an already-compromised user account.
 
-[Freeware](LICENSE) · MK1 Enterprise
+KiT · [Freeware](LICENSE) · [MK1 Made](https://mk1made.us) — *Intelligent Design, with you in mind.*
