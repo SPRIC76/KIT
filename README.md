@@ -37,7 +37,7 @@ A low-profile bar sits just above the taskbar — there when you want it, gone w
 | **Ctrl+Shift + D** | Light · Default mode |
 | **Ctrl+Shift + K** | Night · Auto-wakes on mouse/keyboard activity |
 
-Hold either for Off · triple-tap to flip to the opposite mode (Light → Night, Night → Light).
+Hold either 2 seconds for Off · double-tap to flip to the opposite mode (Light → Night, Night → Light).
 
 ### Options
 
