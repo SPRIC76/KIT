@@ -1,11 +1,8 @@
 <img width="1200" height="630" alt="image-1790601851279" src="https://github.com/user-attachments/assets/2b6ecdf7-3cf7-4d7b-89c6-6bb7618c3dc2" />
-# KiT
 
-**Keep it Ticking** · *Hassle-free screen blackout and awake modes that keep your PC, Apps & AI ticking.*
+# KiT is a quiet Windows companion that keeps your session awake (Light) or darkens the desktop without sleeping the PC (Night), with wakeable screensaver faces; Off returns ordinary Windows.
 
 <img src="https://spric76.github.io/KIT/img/bar-light.png" width="366" alt="The KiT bar in Light, with Night and Off beside it">
-
- KiT is a quiet Windows companion that keeps your session awake (Light) or darkens the desktop without sleeping the PC (Night), with wakeable screensaver faces; Off returns ordinary Windows.
 
  Single instance, no telemetry, no account, no cloud, no keystroke recording, no clipboard access, no fake input. SHA-256-verified releases on GitHub. Two launches: installer (current-user scope) and portable (no admin needed). Also on winget: `winget install --id SPRIC76.KIT -e`.
 
