@@ -50,7 +50,7 @@ Remembers how you left it.
 
 ### Night faces
 
-Night screensavers/faces: **Cosmos** (cosmic anomalous marbles), DVD, Snake, Orbit — or quiet Off, or **Monitor off**, which turns your displays off to save power while everything else keeps running. Burn-safe motion. Built to feel alive, not busy.
+Night screensavers/faces: Blackout, **Cosmos** (cosmic anomalous marbles), Slither, Orbit, DVD — or **Monitor off**, which turns your displays off to save power while everything else keeps running. Burn-safe motion. Built to feel alive, not busy.
 
 <img src="https://spric76.github.io/KIT/img/face-cosmos-a.png" width="720" alt="Cosmos, one of Night's faces, as KiT draws it">
 
@@ -85,4 +85,7 @@ More paths: [Download](docs/DOWNLOAD.md). How it earns trust: [Trust](TRUST.md).
 
 Windows 10 or 11. Nothing else to install.
 
-KiT · [Freeware](LICENSE) · [MK1 Made](https://mk1made.us) — *Intelligent Design, with you in mind.*
+KiT · [Freeware](LICENSE)
+
+[MK1 Made](https://mk1made.us) • *deliberately designed, intelligently refined*
+<p align="right">Artificer Intelligence</p>

@@ -9,7 +9,7 @@ Quiet. Efficient. Under your control. No account. No cloud dashboard. No “enga
 ## What it does
 
 - Holds the session awake in **Light** and **Night**
-- In **Night**, clears the desk and darkens the display; a touch of activity returns you, and **Escape** or **Space** always does, even with **Hold Night** on
+- In **Night**, darkens the display over your windows without moving or closing them; a touch of activity returns you, and **Escape** or **Space** always does, even with **Hold Night** on
 - Offers global hotkeys for Light, Night, Off, and flip — chords only, never a record of what you type
 - Draws its Night faces and control bar locally
 - Checks for updates only when you choose **Check for updates…**
@@ -29,4 +29,7 @@ Prefer the [latest release](https://github.com/SPRIC76/KIT/releases/latest). Bot
 
 Windows may look once at a new publisher. That is ordinary, not a verdict. If a locked-down PC refuses to run it, that is publisher policy, not a corrupt file — see [Download](docs/DOWNLOAD.md). To check a file against its digest, see [Verifying a download](SECURITY.md#verifying-a-download).
 
-KiT · [Freeware](LICENSE) · [MK1 Made](https://mk1made.us) — *Intelligent Design, with you in mind.*
+KiT · [Freeware](LICENSE)
+
+[MK1 Made](https://mk1made.us) • *deliberately designed, intelligently refined*
+<p align="right">Artificer Intelligence</p>
