@@ -34,4 +34,7 @@ Or take either launch from the [latest release](https://github.com/SPRIC76/KIT/r
 
 How it earns trust: [Trust](../TRUST.md).
 
-KiT · [Freeware](../LICENSE) · [MK1 Made](https://mk1made.us) — *Intelligent Design, with you in mind.*
+KiT · [Freeware](../LICENSE)
+
+[MK1 Made](https://mk1made.us) • *deliberately designed, intelligently refined*
+<p align="right">Artificer Intelligence</p>
