@@ -36,5 +36,4 @@ How it earns trust: [Trust](../TRUST.md).
 
 KiT · [Freeware](../LICENSE)
 
-[MK1 Made](https://mk1made.us) • *deliberately designed, intelligently refined*
-<p align="right">Artificer Intelligence</p>
+<p align="center"><a href="https://mk1made.us">Mk1 made</a></p>
