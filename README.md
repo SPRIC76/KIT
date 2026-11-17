@@ -169,7 +169,7 @@ Uninstall from Settings → Apps, or turn off Run at sign-in and delete the port
 
 ## Keep it Ticking.
 
-*Hassle-free screen blackout and awake modes that keep your PC, Apps & AI ticking.*
+*Instant screen blackout. Your PC stays awake.*
 
 Free for Windows 10 and 11. Windows 10 (1809+) or 11, 64-bit. Nothing else to install.
 
