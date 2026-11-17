@@ -4,7 +4,7 @@
 
 Your render finishes. Your download lands. Your AI agent keeps working. When you want it, Ctrl+Shift+K darkens the display without the PC going to sleep.
 
-Ctrl+Shift+K blacks out every screen; Ctrl+Shift+D keeps your PC awake. Living screensavers, auto after idle and monitor brightness, if you want them.
+Ctrl+Shift+K instantly darkens the screen. Living screensavers, auto after idle and monitor brightness, if you want them.
 
 Windows can be unreliable, as are many utilities that are supposed to solve a simple problem. KiT runs from a single file — privately, securely, efficiently and reliably — to keep your PC awake.
 

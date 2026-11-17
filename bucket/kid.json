@@ -1,6 +1,6 @@
 {
     "version":  "1.1.7",
-    "description":  "KiT: Instant screen blackout. Your PC stays awake. Ctrl+Shift+K blacks out every screen; Ctrl+Shift+D keeps your PC awake.",
+    "description":  "KiT: Instant screen blackout. Your PC stays awake. Ctrl+Shift+K instantly darkens the screen.",
     "homepage":  "https://spric76.github.io/KIT/",
     "license":  "Freeware",
     "url":  "https://github.com/SPRIC76/KIT/releases/download/v1.1.7/KIT-Setup.exe",
