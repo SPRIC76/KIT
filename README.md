@@ -1,4 +1,4 @@
-<img width="1200" height="630" alt="image-1790601851279" src="https://github.com/user-attachments/assets/2b6ecdf7-3cf7-4d7b-89c6-6bb7618c3dc2" />
+<img width="1200" height="630" alt="KiT — Keep it Ticking. Instant screen blackout. Your PC stays awake." src="https://spric76.github.io/KIT/og-image.png" />
 
 # KiT: Instant screen blackout. Your PC stays awake.
 
