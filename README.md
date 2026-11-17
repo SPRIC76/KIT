@@ -1,8 +1,10 @@
 <img width="1200" height="630" alt="image-1790601851279" src="https://github.com/user-attachments/assets/2b6ecdf7-3cf7-4d7b-89c6-6bb7618c3dc2" />
 
-# One key darkens the screen. Your work keeps running.
+# KiT: Instant screen blackout. Your PC stays awake.
 
-Your render finishes. Your download lands. Your AI agent keeps working. When you want it, one keystroke darkens the display without the PC going to sleep.
+Your render finishes. Your download lands. Your AI agent keeps working. When you want it, Ctrl+Shift+K darkens the display without the PC going to sleep.
+
+Ctrl+Shift+K blacks out every screen; Ctrl+Shift+D keeps your PC awake. Living screensavers, auto after idle and monitor brightness, if you want them.
 
 Windows can be unreliable, as are many utilities that are supposed to solve a simple problem. KiT runs from a single file — privately, securely, efficiently and reliably — to keep your PC awake.
 
